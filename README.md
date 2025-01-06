@@ -6,3 +6,7 @@ A simple script that monitors air traffic over DPRK (North Korea). Receive the I
 https://github.com/LukasBacano/FlightTracker_R_Telegram
 
 This is an extension to the FlightTrackerBot I’ve developed in R. It communicates with a Telegram bot, providing easy access to data on your phone as long as the script is running.
+
+
+# for other boundingboxes check out graydon's fantastic repo
+https://gist.github.com/graydon/11198540
